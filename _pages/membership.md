@@ -12,7 +12,5 @@ KOMAA 회원으로 가입하시면 교육·세미나, 네트워킹, 정책 정�
 - 절차: 온라인 신청서 작성 → 협회 확인 → 연회비 납부
 
 <p>
-  <a href="https://docs.google.com/forms/d/xxxxxxx" class="btn btn--primary" target="_blank">
-    온라인 회원가입 신청서 작성
-  </a>
+{% include membership-form.html %}
 </p>
