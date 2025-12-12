@@ -1,9 +1,15 @@
 main:
-  - title: "홈 (Home)"
+  - title: "홈"
     url: /
-  - title: "협회소개 (About)"
+  - title: "협회 소개"
     url: /about/
-  - title: "회원가입 (Become Member)"
-    url: /become-member/
-  - title: "소식 (News)"
-    url: /posts/
+  - title: "정관·규정"
+    url: /bylaws/
+  - title: "교육·세미나"
+    url: /education/
+  - title: "공지사항"
+    url: /notices/
+  - title: "회원가입"
+    url: /membership/
+  - title: "연회비 납부"
+    url: /dues/

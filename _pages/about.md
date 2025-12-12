@@ -1,23 +1,30 @@
-```
 ---
+title: "협회 소개"
 permalink: /about/
-title: "협회소개 (About)"
-excerpt: "캐나다 한의사 협회 소개"
-last_modified_at: 2024-12-10
-toc: true
+layout: single
 ---
 
-## 캐나다 한의사 협회 (KOMAA)
+## KOMAA는 어떤 단체인가요?
 
-**Uniting and Empowering the Korean Oriental Medicine and Acupuncture Community in Canada**
+KOMAA는 캐나다에서 활동하는 한의사들을 위한 공식 협회로, 회원들의 전문성 향상과 권익 보호를 위해 설립되었습니다.
 
-KOMAA는 캐나다 내에서 한국 한의학과 침술의 실천을 지원하고 증진하는 데 전념하고 있습니다. 우리의 사명은 치료와 문화 유산에 대한 열정을 공유하는 강력하고 활기찬 실무자 커뮤니티를 육성하는 것입니다.
+## 미션
 
-### 우리의 미션 (Our Mission)
+- 한의학의 안전하고 효과적인 활용을 지원
+- 회원 간 정보 교류 및 교육 활성화
+- 정책 및 보험 환경 개선을 위한 대외 활동
 
-1. **Member Support**: Provide resources, continuing education, and advocacy for our members.
-2. **Community**: Foster a network of professionals for collaboration and mentorship.
-3. **Excellence**: Promote high standards of practice and ethics in Oriental Medicine.
+## 비전
 
-> "Healing with Tradition, Moving forward with Innovation."
-```
+캐나다에서 한의학이 공신력 있는 통합의료의 한 축으로 자리잡도록, 임상·교육·연구·정책 영역에서 지속적으로 기여합니다.
+
+## 연혁
+
+- 1995년: KOMAA 설립
+- 2000년대: 각 주별 네트워크 확대
+- 2010년대 이후: 교육·세미나 프로그램 정규화
+
+## 연락처
+
+- 이메일: komaaofbc@gmail.com  
+- 위치: British Columbia, Canada

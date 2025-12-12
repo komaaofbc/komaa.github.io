@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 캐나다 한의사 협회 (KOMAA)
+title: 캐나다 한의사 협회
 email: komaaofbc@gmail.com
 description: >-
   Korean Oriental Medicine and Acupuncturist Association Of Canada.
