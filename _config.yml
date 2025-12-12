@@ -61,9 +61,6 @@ author:
   avatar : "/assets/images/komaa-logo.png" # Placeholder
   bio    : "Korean Oriental Medicine and Acupuncturist Association Of Canada"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://komaa.org"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/komaa_canada/"
