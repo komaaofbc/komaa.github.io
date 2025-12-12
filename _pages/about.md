@@ -1,8 +1,23 @@
+```
 ---
 permalink: /about/
-title: "About"
+title: "협회소개 (About)"
+excerpt: "캐나다 한의사 협회 소개"
+last_modified_at: 2024-12-10
+toc: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 캐나다 한의사 협회 (KOMAA)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**Uniting and Empowering the Korean Oriental Medicine and Acupuncture Community in Canada**
+
+KOMAA는 캐나다 내에서 한국 한의학과 침술의 실천을 지원하고 증진하는 데 전념하고 있습니다. 우리의 사명은 치료와 문화 유산에 대한 열정을 공유하는 강력하고 활기찬 실무자 커뮤니티를 육성하는 것입니다.
+
+### 우리의 미션 (Our Mission)
+
+1. **Member Support**: Provide resources, continuing education, and advocacy for our members.
+2. **Community**: Foster a network of professionals for collaboration and mentorship.
+3. **Excellence**: Promote high standards of practice and ethics in Oriental Medicine.
+
+> "Healing with Tradition, Moving forward with Innovation."
+```
