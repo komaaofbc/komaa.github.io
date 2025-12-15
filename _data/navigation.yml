@@ -3,8 +3,6 @@ main:
     url: /
   - title: "협회 소개"
     url: /about/
-  - title: "정관·규정"
-    url: /bylaws/
   - title: "교육·세미나"
     url: /education/
   - title: "공지사항"
@@ -13,3 +11,13 @@ main:
     url: /membership/
   - title: "연회비 납부"
     url: /dues/
+
+about_sidebar:
+  - title: "협회 안내"
+    children:
+      - title: "협회 소개"
+        url: /about/
+      - title: "정관·규정"
+        url: /bylaws/
+      - title: "개인정보처리방침"
+        url: /privacy-policy/

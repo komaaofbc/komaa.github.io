@@ -2,6 +2,8 @@
 title: "협회 소개"
 permalink: /about/
 layout: single
+sidebar:
+  nav: "about_sidebar"
 ---
 
 ## KOMAA는 어떤 단체인가요?
