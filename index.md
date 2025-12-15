@@ -50,38 +50,15 @@ instagram_intro:
     excerpt: "Follow <a href='https://www.instagram.com/komaa_canada/'>@komaa_canada</a> for the latest updates, event photos, and community stories.<br>최신 소식과 행사 사진을 인스타그램에서 확인하세요."
 ---
 
-<style>
-  body {
-    background-image: url('/assets/images/bg-blue-1.png');
-    background-attachment: fixed;
-    background-size: cover;
-  }
-  /* Remove default white background from main content containers to let body background show */
-  #main, .initial-content, .page__content {
-    background-color: transparent !important;
-  }
-  /* Ensure navigation has a solid background so the image doesn't show through */
-  .masthead {
-    background-color: #ffffff;
-    border-bottom: 1px solid #eee; /* Optional delineation */
-  }
-  .section-card {
-    background-color: rgba(255, 255, 255, 0.95);
-    border-radius: 20px;
-    padding: 2rem;
-    margin-bottom: 2rem;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-  }
-  /* Ensure text inside is readable and spacing is good */
-  .section-card h2, .section-card h3 {
-    margin-top: 0;
-  }
-</style>
+
+{% include head-custom.html %}
 
 <div class="section-card">
   {% include feature_row id="feature_row" type="center"%}
   {% include feature_row id="intro" type="center" %}
 </div>
+
+{% include partners.html %}
 
 <div class="page__content">
 
