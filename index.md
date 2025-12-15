@@ -9,10 +9,10 @@ header:
   caption: "Korean Oriental Medicine and Acupuncturist Association of Canada"
   actions:
     - label: "회원가입"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSesDWEUtMIticxgIYsU7ZXJtP-7gteqNnmtaz8fEfbIdZHqXA/viewform?usp=dialog"   # Google Forms 링크
+      url: "/membership/"   # Google Forms 링크
       class: "btn btn--primary"
     - label: "연회비 납부"
-      url: "https://buy.stripe.com/xxxxxxx"           # Stripe Payment Link
+      url: "/dues/"           # Stripe Payment Link
       class: "btn btn--success"  
 excerpt: |
   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
