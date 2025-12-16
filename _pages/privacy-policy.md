@@ -3,6 +3,7 @@ title: "Privacy Policy"
 permalink: /privacy-policy/
 layout: single
 toc: true
+toc_sticky: true
 sidebar:
   nav: "about_sidebar"
 ---

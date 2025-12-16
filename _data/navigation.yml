@@ -17,6 +17,8 @@ about_sidebar:
     children:
       - title: "협회 소개"
         url: /about/
+      - title: "임원진 소개"
+        url: /about/executives/ 
       - title: "정관·규정"
         url: /bylaws/
       - title: "개인정보처리방침"

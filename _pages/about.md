@@ -4,6 +4,8 @@ permalink: /about/
 layout: single
 sidebar:
   nav: "about_sidebar"
+toc: true
+toc_sticky: true
 ---
 
 ## KOMAA는 어떤 단체인가요?
