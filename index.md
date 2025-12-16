@@ -132,5 +132,5 @@ instagram_intro:
 <div class="section-card" style="width: 100%; overflow: hidden;">
 {% include feature_row id="instagram_intro" type="center" %}
   <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-  <iframe src="//lightwidget.com/widgets/7d6d91d737dc567e8ba9050086db3ee3.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+  <iframe src="https://cdn.lightwidget.com/widgets/7d6d91d737dc567e8ba9050086db3ee3.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 </div>
